@@ -25,7 +25,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
  [<img class="fa" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' style="color:red" alt='facebook' height='40'>](https://www.facebook.com/mu9593)
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mu95.93/)
  
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muhaiminulofficial/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/mu9593)  
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muhaiminulofficial/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/26136808/muhaiminul-islam)  
 
 
 
