@@ -13,8 +13,8 @@ I’m a Front End Web developer who is passionate about making error-free websit
 ## 👨‍💻 Skills & Experiance:  
 ✅ WordPress <br> 
 ✅ JavaScript <br>
-✅ PHP <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap <br>
+✅ ReactJS <br>
+✅ HTML5 / CSS3 / SASS / TailwindCSS <br>
 ✅ Photoshop / Illustrator <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhaiminul-official)](https://github.com/anuraghazra/github-readme-stats)
