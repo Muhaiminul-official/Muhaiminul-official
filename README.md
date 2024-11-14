@@ -1,17 +1,21 @@
 ## Hi, I'm Muhaiminul Islam 👋
 
 
-<img align="right" width="300" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
-<p>
+
+<p >
 👑 I am Web Developer <br> 
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p> 
 
 
-<p align="left"> <a href="https://www.linkedin.com/in/muhaiminulofficial/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Follow-green?logo=linkedin&style=for-the-badge
-" alt="_Muhaiminul" /></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhaiminulofficial/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-green?logo=linkedin&style=for-the-badge" alt="_Muhaiminul" />
+  </a>
+</p>
 
 
+<br>
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Muhaiminul-official&label=Profile%20Views&color=3&pretty=false" />
@@ -36,7 +40,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 <h2 align="center">📊 Top Languages</h2>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhaiminul-official&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
   </a>
@@ -56,9 +60,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title="Bash">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="50" height="50"/>
   </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer" title="Blender">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="50" height="50"/>
-  </a>
+ 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="Bootstrap">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
   </a>
@@ -73,17 +75,13 @@ I’m a Front End Web developer who is passionate about making error-free websit
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" title="Django">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50"/>
-  </a>
+ 
 
   <!-- Row 3 -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
   </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer" title="DotNet">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="DotNet" width="50" height="50"/>
-  </a>
+ 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
   </a>
@@ -92,18 +90,14 @@ I’m a Front End Web developer who is passionate about making error-free websit
   </a>
 
   <!-- Row 4 -->
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer" title="Illustrator">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="50" height="50"/>
-  </a>
+
   <a href="https://www.java.com" target="_blank" rel="noreferrer" title="Java">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  </a>
+
   
   <!-- Row 5 -->
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer" title="MATLAB">
@@ -112,9 +106,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  </a>
+
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="NodeJS">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50" height="50"/>
   </a>
@@ -123,9 +115,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" title="Photoshop">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/>
   </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer" title="PHP">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-  </a>
+
   <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   </a>
@@ -137,7 +127,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 ## ☕ Connect with me!
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muhaiminulofficial/)
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muhaiminulofficial/)     
  [<img class="fa" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' style="color:red" alt='facebook' height='40'>](https://www.facebook.com/mu9593)
 
  
