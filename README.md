@@ -121,14 +121,17 @@ I’m a Front End Web developer who is passionate about making error-free websit
   </a>
 </div>
 
-<hr style="border:1px solid #0e75b6; width:75%; margin:auto;">
+<hr style="border:2px solid #0e75b6; width:75%; margin:20px auto;">
 
 
 
 ## ☕ Connect with me!
-
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muhaiminulofficial/)     
- [<img class="fa" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' style="color:red" alt='facebook' height='40'>](https://www.facebook.com/mu9593)
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 50px; justify-content: center;" >
+<a href="https://www.linkedin.com/in/muhaiminulofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md ashik karim nayon." height="30" width="40" /></a>
+<a href="https://www.facebook.com/mu9593" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammad ashik karim nayon" height="30" width="40" /></a>
+<a href="https://www.instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ak__nayon" height="30" width="40" /></a>
+</p>
+ 
 
  
  
