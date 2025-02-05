@@ -82,7 +82,7 @@ communication.
     <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-007acc.svg?&logo=typescript&logoColor=white" alt="TypeScript" style="height: 28px;">
   </a>
   <a href="#" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
-    <img src="https://custom-icon-badges.demolab.com/badge/React-61DBFB.svg?&logo=react&logoColor=61DAFB" alt="React" style="height: 28px;">
+    <img src="https://custom-icon-badges.demolab.com/badge/React-61DBFB.svg?&logo=react&logoColor=000" alt="React" style="height: 28px;">
   </a>
   <a href="#" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
     <img src="https://custom-icon-badges.demolab.com/badge/Next.js-000000.svg?&logo=nextdotjs&logoColor=white" alt="Next.js" style="height: 28px;">
