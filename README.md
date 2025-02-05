@@ -15,30 +15,20 @@
 </p>
 
 
-<br>
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Muhaiminul-official&label=Profile%20Views&color=3&pretty=false" />
-</a>
-
-
-
-<br>
-
 ## 🚀 About Me
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.I pride myself on doing quality work and maintaining excellent communication.
-<h2 align="center">👨‍💻 Skills & Experience</h2>
+<h2>👨‍💻 Skills & Experience</h2>
 
 <ul align="left" style="list-style-type: none; padding: 0; font-size: 18px;">
   <li>✅ WordPress</li>
   <li>✅ JavaScript</li>
-  <li>✅ ReactJS</li>
+  <li>✅ React JS</li>
   <li>✅ HTML5 / CSS3 / SASS</strong> / TailwindCSS</li>
   <li>✅ Photoshop / Illustrator</li>
 </ul>
 
 
-<h2 align="center">📊 Top Languages</h2>
+<h2 >📊 Top Languages</h2>
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
@@ -126,10 +116,9 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 
 ## ☕ Connect with me!
-<p align="center" style="display: flex; flex-wrap: wrap; gap: 50px; justify-content: center;" >
-<a href="https://www.linkedin.com/in/muhaiminulofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md ashik karim nayon." height="30" width="40" /></a>
-<a href="https://www.facebook.com/mu9593" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammad ashik karim nayon" height="30" width="40" /></a>
-<a href="https://www.instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ak__nayon" height="30" width="40" /></a>
+
+
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Muhaiminul89) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhaiminulofficial/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/muhaiminul__) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhaiminul.official@gmail.com)
 </p>
  
 
