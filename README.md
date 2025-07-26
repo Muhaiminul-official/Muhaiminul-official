@@ -2,7 +2,7 @@
 ℌ𝔦, ℑ 𝔞𝔪 𝔐𝔲𝔥𝔞𝔦𝔪𝔦𝔫𝔲𝔩 ℑ𝔰𝔩𝔞𝔪. ℑ'𝔪 𝔞
 </h1>
 <p align="center" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=dancing+script&weight=900&size=35&letterSpacing=&duration=4000&pause=1000&color=19FF35&center=true&width=435&lines=Front-End+Developer+++++;Creative+Thinker+;React+Enthusiast;Tech+Community+Contributor;Open+Source+Contributor;Next.js+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=dancing+script&weight=900&size=35&letterSpacing=&duration=4000&pause=1000&color=10B981&center=true&width=435&lines=Front-End+Developer+++++;Creative+Thinker+;React+Enthusiast;Tech+Community+Contributor;Open+Source+Contributor;Next.js+Learner" alt="Typing SVG" />
 </p>
 
 ---
