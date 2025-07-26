@@ -24,7 +24,7 @@ As a passionate **front-end developer**, I specialize in creating responsive and
   
 <p align="left">
   <a href="https://www.linkedin.com/in/muhaiminulofficial/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Follow-green?logo=linkedin&style=for-the-badge" alt="_Muhaiminul" />
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-F59E0B?logo=linkedin&style=for-the-badge" alt="_Muhaiminul" />
   </a>
 </p>
 
@@ -92,11 +92,11 @@ As a passionate **front-end developer**, I specialize in creating responsive and
 
 <p align="left">
   <a href="mailto:muhaiminul.official@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Muhaiminul" style="border-radius: 5px;">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Muhaiminul" style="border-radius: 5px;"> </a>
    <img align="right" src="https://komarev.com/ghpvc/?username=muhaiminul-official&label=Profile+Visitors&style=plastic&color=ff69b4" alt="Profile View Counter" />
 
 
-  </a>
+ 
 </p>
 
 
