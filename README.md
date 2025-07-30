@@ -7,7 +7,7 @@
 
 ---
 <div align="center">
-  <img src="https://github.com/Muhaiminul-official/Muhaiminul-official/blob/main/My_Banner-min.png?raw=true" width="100%" alt="Banner"/>
+  <img src="https://github.com/Muhaiminul-official/Muhaiminul-official/blob/main/My_Banner.jpg?raw=true" width="100%" alt="Banner"/>
 </div>
 
 ---
